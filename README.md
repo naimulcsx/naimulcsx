@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" style="position: relative; top: 15px;"> Hi, I'm Naimul</h1>
+<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="32px" style="position: relative; top: 15px;"> Hi, I'm Naimul</h1>
 <p>Competitive programmer, Software Engineer and Cloud enthusiast</p>
 
 
