@@ -8,4 +8,5 @@ A Software Engineer with a genuine passion to build things.
 - 📝 I write articles on [https://www.naimulhaque.com/](https://www.naimulhaque.com/)
 - 💬 Ask me about **React, TypeScript, NestJS**
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=naimulcsx&card_width=500&hide_longest_streak=true" alt="naimulcsx" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=naimulcsx&card_width=500" alt="naimulcsx" /></p>
