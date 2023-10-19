@@ -1,5 +1,5 @@
 # Hi, I'm Naimul
-*Software Engineer | Full-Stack | UI / UX | TypeScript | React | NestJS*
+*Software Engineer | Full-Stack | TypeScript | React | NestJS | DevOps Enthusiast*
 
 👋 Hi, I'm a software engineer with a genuine passion for building things for the web. I specialize in full-stack software development, particularly using React, Node.js and TypeScript. I am passionate about **system design**, crafting **user interfaces**, and writing **clean code**. In my free time, I like developing side projects, learning new technologies and writing articles.
 
