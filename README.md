@@ -12,4 +12,3 @@
 - 🌱 I’m currently learning **Terraform, Kubernetes**
 - 📝 I write articles on [https://www.naimulhaque.com/](https://www.naimulhaque.com/)
 - 💬 Ask me about **React, TypeScript, NestJS**
-- 
