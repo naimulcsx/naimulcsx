@@ -10,5 +10,5 @@
 
 - 🔭 I’m currently working on [progHours](https://github.com/naimulcsx/progHours)
 - 🌱 I’m currently learning **Terraform, Kubernetes**
-- 📝 I write articles on [https://www.naimulhaque.com/](https://www.naimulhaque.com/)
+- 📝 I write articles on [https://blog.naimulhaque.com/](https://blog.naimulhaque.com/)
 - 💬 Ask me about **React, TypeScript, NestJS**
